@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "nocturn"]
+	path = nocturn
+	url = https://github.com/chronopsychiatry/ambient-bd-nocturn
